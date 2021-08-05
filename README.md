@@ -1,5 +1,5 @@
 # Bidding-Solidity
-##Smart-Contract
+## Smart-Contract
 
 Remix IDE (Integrated Development Environment) is a web application that can be used to write, debug, and deploy Ethereum Smart Contracts. When you want to write Smart Contracts, you can use this application.
 Using Remix IDE is actually quite easy!
@@ -14,7 +14,7 @@ Solidity, Remix, Metamask
 
 ## Creating the Smart Contract
 Since we really don’t need a complex Smart Contract, we’ll just make one under default workspace. Our Smart Contract will be made using Solidity.
-In Remix, create a new file named Bidding.sol. To create a file, click the Create New File button at the top left corner of the page:
+In Remix, create a new file named ## Bidding.sol. To create a file, click the Create New File button at the top left corner of the page:
 
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.4+commit.c7e474f2.js
 
